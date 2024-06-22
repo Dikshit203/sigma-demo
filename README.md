@@ -1,2 +1,3 @@
 # sigma-demo
-this is demo for git &amp; github
+this is demo for git &amp; github.
+learing git and github for backend from apna collage
